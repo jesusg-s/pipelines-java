@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/DevOpsTheCocktail/Space%20Game%20-%20web/_apis/build/status/jesusg-s.pipelines-java?branchName=main)](https://dev.azure.com/DevOpsTheCocktail/Space%20Game%20-%20web/_build/latest?definitionId=28&branchName=main)
 
 # Contributing
 
